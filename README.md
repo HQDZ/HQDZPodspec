@@ -1,2 +1,2 @@
 # HQDZPodspec
-个人HQDZ插件索引库
+HQDZ插件索引库
